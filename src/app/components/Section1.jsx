@@ -3,7 +3,7 @@ import React from 'react';
 
 const Section1 = () => {
   return (
-    <section className="bgsection1 md:h-[100vh] p-4 md:p-0 md:pl-12 mt-12 flex flex-row justify-between items-center">
+    <section className="bgsection1 md:h-[100vh] p-4 md:p-0 md:pl-12 flex flex-row justify-between items-center">
       <div className="flex flex-col justify-center items-start">
         <h1 className="md:mt-[-13%] md:max-w-2/4 textOde text-[36px] md:text-[111.64px] text-black ">
           GRADES NFT
