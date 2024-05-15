@@ -70,6 +70,12 @@
   font-style: normal;
 }
 
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
 body {
 
     background-color: #fafaf4;
@@ -120,8 +126,14 @@ body {
   background-image: url('/assets/blue-bg.png');
   background-repeat: no-repeat;
   background-position: center;
-  height: 90vw;
   background-size: cover;
+}
+
+.bgsection4{
+  background-image: url('/assets/blue-bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:1520px 100% ;
 }
 
 
