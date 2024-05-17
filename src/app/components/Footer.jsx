@@ -33,9 +33,7 @@ const Footer = () => {
     <div className="mt-16 grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-32">
       <div className="mx-auto max-w-sm lg:max-w-md">
         <p className="poppins-regular mt-4 text-center text-white lg:text-left lg:text-xl">
-        The Leading NFT Marketplace on Ethereum
-Home to the Next Generation of Digital Creators.
-Discover The NFT Collections.
+        Experience the cutting-edge of digital creativity on our NFT marketplace and launchpad. Scroll L2 is where visionary creators thrive. Dive into our unique NFT collections now.
         </p>
 
         <div className="mt-6 flex justify-center gap-4 lg:justify-start">
@@ -103,7 +101,7 @@ Discover The NFT Collections.
 
             <li>
               <a className="text-white transition hover:text-gray-700/75" href="#">
-                Articles
+                Whitepaper
               </a>
             </li>
 
@@ -128,15 +126,15 @@ Discover The NFT Collections.
 
           <ul className="mt-4 md:mt-6 space-y-1 md:space-y-2.5">
             <li>
-              <a className="text-white transition hover:text-gray-700/75" href="#"> Tokens </a>
+              <a className="text-white transition hover:text-gray-700/75" href="#"> About Us </a>
             </li>
 
             <li>
-              <a className="text-white transition hover:text-gray-700/75" href="#"> API </a>
+              <a className="text-white transition hover:text-gray-700/75" href="#"> Staking </a>
             </li>
 
             <li>
-              <a className="text-white transition hover:text-gray-700/75" href="#"> Big Bounty </a>
+              <a className="text-white transition hover:text-gray-700/75" href="#"> Grades Dex </a>
                                   </li>
                                   <li>
               <a className="text-white transition hover:text-gray-700/75" href="#"> Become Partners </a>
